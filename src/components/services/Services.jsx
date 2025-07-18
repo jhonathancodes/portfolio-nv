@@ -2,6 +2,7 @@ import logo from "../../assets/logo.png";
 import ds from "../../assets/ds.jpg";
 import nova from "../../assets/nova.png";
 import microlins from '../../assets/microlins.webp';
+import kids from '../../assets/kids.jpg';
 import { FiExternalLink } from 'react-icons/fi';
 import './Services.css';
 
@@ -47,6 +48,17 @@ function Services() {
                     </p>
                     <a href="https://workshopmicrolins.vercel.app/" target="_blank" rel="noopener noreferrer" className="project-link">
                         <FiExternalLink style={{ marginLeft: '6px' }} /> workshopmicrolins.com.br
+                    </a>
+                </div>
+
+                 <div className="project-card">
+                    
+                    <h2 className="project-title">ASCOM Doações</h2>
+                    <p className="project-summary">
+                        Sistema desenvolvido para uma ONG com o objetivo de arrecadar objetos para crianças carentes.
+                    </p>
+                    <a href="https://ascomdoacao.vercel.app/login" target="_blank" rel="noopener noreferrer" className="project-link">
+                        <FiExternalLink style={{ marginLeft: '6px' }} /> ascomdoacao.org
                     </a>
                 </div>
 
