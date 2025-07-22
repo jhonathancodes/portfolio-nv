@@ -42,7 +42,7 @@ function Tittle() {
             <div className="contact-info">
                 <h1 className="titulo">Contato</h1>
                 <div className="contact-row">
-                    <a href="https://github.com/jhooo0w" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/jhonathancodes" target="_blank" rel="noopener noreferrer">
                         <FaGithub /> <span>Github</span>
                     </a>
                 </div>
@@ -61,7 +61,7 @@ function Tittle() {
                 </div>
                 <div className="contact-row">
                     <a href="mailto:jhonathan.novais3450@gmail.com" target="_blank" rel="noopener noreferrer">
-                        <MdEmail /> <span>jhonathan.novais3450@gmail.com</span>
+                        <MdEmail /> <span>jhonathandev7@gmail.com</span>
                     </a>
                 </div>
             </div>
